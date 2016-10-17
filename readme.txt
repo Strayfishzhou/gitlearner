@@ -5,4 +5,5 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
-禁用fast forward
+禁用fast forward.
+This is stash function testing-1.
